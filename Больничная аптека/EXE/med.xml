@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfМедикаменты xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Медикаменты>
+    <localDate>2016-06-01T19:47:53.9512587+03:00</localDate>
+    <name>Ибуклин</name>
+    <numbers_m>12</numbers_m>
+  </Медикаменты>
+  <Медикаменты>
+    <localDate>2016-06-01T19:47:53.9512587+03:00</localDate>
+    <name>Ибуфен</name>
+    <numbers_m>32</numbers_m>
+  </Медикаменты>
+  <Медикаменты>
+    <localDate>2016-06-01T19:47:53.9512587+03:00</localDate>
+    <name>Аспирин</name>
+    <numbers_m>3</numbers_m>
+  </Медикаменты>
+  <Медикаменты>
+    <localDate>2016-06-01T19:47:53.9512587+03:00</localDate>
+    <name>Дуокапс</name>
+    <numbers_m>43</numbers_m>
+  </Медикаменты>
+  <Медикаменты>
+    <localDate>2016-06-01T19:47:53.9512587+03:00</localDate>
+    <name>АЦЦ</name>
+    <numbers_m>54</numbers_m>
+  </Медикаменты>
+</ArrayOfМедикаменты>

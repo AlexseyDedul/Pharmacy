@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ArrayOfЗаявки xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Заявки>
+    <med_app>
+      <Медикаменты_в_заявке>
+        <medicines>Парацетамол</medicines>
+        <numbers>12</numbers>
+      </Медикаменты_в_заявке>
+      <Медикаменты_в_заявке>
+        <medicines>Ибупрофен</medicines>
+        <numbers>32</numbers>
+      </Медикаменты_в_заявке>
+    </med_app>
+    <localDate>2016-06-01T19:50:09.4555311+03:00</localDate>
+    <name>Хирургическое отделение</name>
+    <number>2</number>
+  </Заявки>
+  <Заявки>
+    <med_app>
+      <Медикаменты_в_заявке>
+        <medicines>Настой валирьяны</medicines>
+        <numbers>3</numbers>
+      </Медикаменты_в_заявке>
+    </med_app>
+    <localDate>2016-06-01T19:50:09.4555311+03:00</localDate>
+    <name>Неврологическое отделение</name>
+    <number>1</number>
+  </Заявки>
+  <Заявки>
+    <med_app>
+      <Медикаменты_в_заявке>
+        <medicines>Ибуклин</medicines>
+        <numbers>42</numbers>
+      </Медикаменты_в_заявке>
+      <Медикаменты_в_заявке>
+        <medicines>АЦЦ</medicines>
+        <numbers>12</numbers>
+      </Медикаменты_в_заявке>
+    </med_app>
+    <localDate>2016-06-01T19:50:09.4555311+03:00</localDate>
+    <name>Приемное отделение</name>
+    <number>2</number>
+  </Заявки>
+</ArrayOfЗаявки>

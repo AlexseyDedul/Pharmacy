@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfНакладные xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Накладные>
+    <med_inv>
+      <Медикаменты_в_накладной>
+        <medicines>Ибуклин</medicines>
+        <numbers>12</numbers>
+      </Медикаменты_в_накладной>
+      <Медикаменты_в_накладной>
+        <medicines>Ибуфен</medicines>
+        <numbers>3</numbers>
+      </Медикаменты_в_накладной>
+    </med_inv>
+    <localDate>2016-06-01T19:54:57.1524937+03:00</localDate>
+    <name>Хирургическое отделение</name>
+    <number>2</number>
+  </Накладные>
+  <Накладные>
+    <med_inv>
+      <Медикаменты_в_накладной>
+        <medicines>Аспирин</medicines>
+        <numbers>3</numbers>
+      </Медикаменты_в_накладной>
+      <Медикаменты_в_накладной>
+        <medicines>АЦЦ</medicines>
+        <numbers>24</numbers>
+      </Медикаменты_в_накладной>
+    </med_inv>
+    <localDate>2016-06-01T19:55:45.2277174+03:00</localDate>
+    <name>Неврологическое отделение</name>
+    <number>2</number>
+  </Накладные>
+</ArrayOfНакладные>

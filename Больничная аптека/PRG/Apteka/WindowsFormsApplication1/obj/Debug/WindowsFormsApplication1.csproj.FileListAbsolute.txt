@@ -1,0 +1,74 @@
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddApp.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddInvoce.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMed.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Authentif.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pharmacy.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appli.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medics.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddApp.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddInvoce.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMed.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appli.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Authentif.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medics.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pharmacy.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddApp.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddInvoce.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMed.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appli.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Authentif.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medics.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pharmacy.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\bin\Debug\Apteka.exe.config
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\Apteka.exe
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\Apteka.pdb
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\bin\Debug\Apteka.exe
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\bin\Debug\Apteka.pdb
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddApp.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddInvoce.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMed.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appli.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Authentif.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Exp.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pharmacy.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Debug\Apteka.exe.config
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\Apteka.exe
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\Apteka.pdb
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Debug\Apteka.exe
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Debug\Apteka.pdb
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddApp.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddInvoce.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMed.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appli.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Authentif.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Exp.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Pharmacy.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\Admin\Desktop\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\bin\Release\Apteka.exe.config
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\bin\Release\Apteka.exe
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\bin\Release\Apteka.pdb
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddApp.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddInvoce.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddMed.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Appli.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Authentif.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Pharmacy.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\Apteka.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\Apteka.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\Apteka.exe
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\Apteka.pdb
+C:\Users\Admin\Desktop\Новая папка\WP 2.0\WindowsFormsApplication1\obj\Release\Apteka.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\bin\Release\Apteka.exe.config
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Release\Apteka.exe
+C:\Users\Admin\Desktop\Apteka\WindowsFormsApplication1\obj\Release\Apteka.pdb

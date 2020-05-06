@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.AddApp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASABAAACAAABAEAAiAAABSIEA4CEAgMnFIAgAFAAE=</HashCode>
+      <FileName>AddApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.AddInvoce" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACJAAAACAAABAUAAiAAAASIMAtCEAgMlEOAgABAQA=</HashCode>
+      <FileName>AddInvoce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.AddMed" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAYAAAAACAAABAAAICACAICACAYCEAgEGAAAgABAAA=</HashCode>
+      <FileName>AddMed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Appli" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhQAAAAAACAAABAEAACAAAACABgAAEAAEAAAAgABAAg=</HashCode>
+      <FileName>Appli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Authentif">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAEAACAAAACAAAIAAAAkEIAAAABAAA=</HashCode>
+      <FileName>Authentif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Pharmacy" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QzWAKFmKwCgoSFgcoN+lgV9yEEgwCHAg8CIoGBBDNAg=</HashCode>
+      <FileName>Pharmacy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Аптека" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAJAACAAAACCAACAAAgAIABEAABIAAAFCAIAACCAAE=</HashCode>
+      <FileName>Аптека.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Заявки" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAQIEAAAAQAAAAgAAEAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Заявки.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Медикаменты" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAgAAEAAAgAAAAAAAAEAA=</HashCode>
+      <FileName>Медикаменты.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Медикаменты_в_заявке" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAIAAAAAAIAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Медикаменты_в_заявке.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Медикаменты_в_накладной" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAIAAAAAAIAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Медикаменты_в_накладной.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.Накладные" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAQIQAAAAAAAAAgAAEAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Накладные.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Apteka.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apteka.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
