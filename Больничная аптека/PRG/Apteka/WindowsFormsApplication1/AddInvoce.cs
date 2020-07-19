@@ -88,9 +88,9 @@ namespace WindowsFormsApplication1
                 flag = true;
                 for (int k = 0; k < invoice.med_inv.Count; k++)
                 {
-                    if (invoice.med_inv[k].medicines == comboBox1.Text)
+                    if (invoice.med_inv[k].Medicines == comboBox1.Text)
                     {
-                        invoice.med_inv[k].numbers += sum;
+                        invoice.med_inv[k].Quantity += sum;
                         ph.bdMedic[i].numbers_m -= sum;
                         summ += sum;
                         flag = false;
@@ -185,9 +185,9 @@ namespace WindowsFormsApplication1
                         {
                             for (int j = 0; j < ph.bdMedic.Count; j++)
                             {
-                                if (MInv[i].medicines == ph.bdMedic[j].name)
+                                if (MInv[i].Medicines == ph.bdMedic[j].name)
                                 {
-                                    ph.bdMedic[j].numbers_m += MInv[i].numbers;
+                                    ph.bdMedic[j].numbers_m += MInv[i].Quantity;
                                 }
                             }
                         }
@@ -270,7 +270,7 @@ namespace WindowsFormsApplication1
                     for (int i = 0; i < ph.bdMedic.Count; i++)
                     {
                         comboBox1.Items.Add(ph.bdMedic[i].name);
-                        comboBox1.Text = ph.bdInv[index].med_inv[0].medicines;
+                        comboBox1.Text = ph.bdInv[index].med_inv[0].Medicines;
                     }
                     comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
 
@@ -282,7 +282,7 @@ namespace WindowsFormsApplication1
                     for (int i = 0; i < ph.bdMedic.Count; i++)
                     {
                         comboBox1.Items.Add(ph.bdMedic[i].name);
-                        comboBox1.Text = ph.inv[index].med_inv[0].medicines;
+                        comboBox1.Text = ph.inv[index].med_inv[0].Medicines;
                     }
                     comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
 
@@ -318,9 +318,9 @@ namespace WindowsFormsApplication1
                         {
                             for (int j = 0; j < ph.bdMedic.Count; j++)
                             {
-                                if (MInv[i].medicines == ph.bdMedic[j].name)
+                                if (MInv[i].Medicines == ph.bdMedic[j].name)
                                 {
-                                    ph.bdMedic[j].numbers_m += MInv[i].numbers;
+                                    ph.bdMedic[j].numbers_m += MInv[i].Quantity;
                                 }
                             }
                         }

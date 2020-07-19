@@ -484,7 +484,7 @@ namespace WindowsFormsApplication1
         {
             if (bdApp.Count > 0)
             {
-                app = new BindingList<Заявки>(bdApp.Where(obj => obj.name.StartsWith(textBox2.Text)).ToList());
+                app = new BindingList<Заявки>(bdApp.Where(obj => obj.Name.StartsWith(textBox2.Text)).ToList());
                 dataGridApp.DataSource = app;
                 flag = true;
                 if (textBox2.Text == "")
@@ -938,7 +938,7 @@ namespace WindowsFormsApplication1
                 {
                     string m;
                     int i = dataGridApp.CurrentCell.RowIndex;
-                    string a = bdApp[i].name;
+                    string a = bdApp[i].Name;
                     m = exportToHtml_app();
                     Exp s = new Exp(m, a);
                     s.Show();
@@ -992,7 +992,7 @@ namespace WindowsFormsApplication1
                 {
                     string m;
                     int i = dataGridApp.CurrentCell.RowIndex;
-                    string a = bdApp[i].name;
+                    string a = bdApp[i].Name;
                     m = exportToHtml_app();
                     Exp s = new Exp(m, a);
                     s.Show();
@@ -1082,7 +1082,7 @@ namespace WindowsFormsApplication1
                     int j = dataGridApp.CurrentCell.RowIndex;
 
                     bdMedApp.RemoveAt(i);
-                    bdApp[j].number -= 1;
+                    bdApp[j].Number -= 1;
                 }
                 catch (NullReferenceException) { }
             }
@@ -1189,11 +1189,11 @@ namespace WindowsFormsApplication1
 
             strHTMLBuilder.Append("<tr>");
             strHTMLBuilder.Append("<td>");
-            strHTMLBuilder.Append(bdApp[i].localDate);
+            strHTMLBuilder.Append(bdApp[i].LocalDate);
             strHTMLBuilder.Append("</td>");
 
             strHTMLBuilder.Append("<td align='right'>");
-            strHTMLBuilder.Append(bdApp[i].name);
+            strHTMLBuilder.Append(bdApp[i].Name);
             strHTMLBuilder.Append("</td>");
 
             strHTMLBuilder.Append("<tr>");
@@ -1214,11 +1214,11 @@ namespace WindowsFormsApplication1
             {
                 strHTMLBuilder.Append("<tr>");
                 strHTMLBuilder.Append("<td>");
-                strHTMLBuilder.Append(u.medicines);
+                strHTMLBuilder.Append(u.Medicines);
                 strHTMLBuilder.Append("</td>");
 
                 strHTMLBuilder.Append("<td>");
-                strHTMLBuilder.Append(u.numbers);
+                strHTMLBuilder.Append(u.Quantity);
                 strHTMLBuilder.Append("</td>");
 
                 strHTMLBuilder.Append("</tr>");
@@ -1289,11 +1289,11 @@ namespace WindowsFormsApplication1
             {
                 strHTMLBuilder.Append("<tr>");
                 strHTMLBuilder.Append("<td>");
-                strHTMLBuilder.Append(u.medicines);
+                strHTMLBuilder.Append(u.Medicines);
                 strHTMLBuilder.Append("</td>");
 
                 strHTMLBuilder.Append("<td>");
-                strHTMLBuilder.Append(u.numbers);
+                strHTMLBuilder.Append(u.Quantity);
                 strHTMLBuilder.Append("</td>");
 
                 strHTMLBuilder.Append("</tr>");

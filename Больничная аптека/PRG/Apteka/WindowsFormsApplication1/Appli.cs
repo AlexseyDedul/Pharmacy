@@ -49,7 +49,7 @@ namespace WindowsFormsApplication1
 
         private void textBox1_KeyUp(object sender, KeyEventArgs e)
         {
-            BindingList<Заявки> app = new BindingList<Заявки>(bdApp2.Where(obj => obj.name.StartsWith(textBox1.Text)).ToList());
+            BindingList<Заявки> app = new BindingList<Заявки>(bdApp2.Where(obj => obj.Name.StartsWith(textBox1.Text)).ToList());
             dataGridView1.DataSource = app;
             if (textBox1.Text == "")
             {

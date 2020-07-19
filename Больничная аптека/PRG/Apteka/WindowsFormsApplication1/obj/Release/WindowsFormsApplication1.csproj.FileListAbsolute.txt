@@ -34,3 +34,18 @@ C:\Users\Admin\Desktop\Новая папка\Больничная аптека\P
 F:\учеба\КП и ЯП\курсач кп\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Release\Apteka.exe.config
 F:\учеба\КП и ЯП\курсач кп\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\Apteka.exe
 F:\учеба\КП и ЯП\курсач кп\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\Apteka.pdb
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Release\Apteka.exe.config
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\Apteka.exe
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\Apteka.pdb
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Release\Apteka.exe
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\bin\Release\Apteka.pdb
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddApp.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddInvoce.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddMed.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Appli.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Authentif.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Exp.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Pharmacy.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\Apteka.Properties.Resources.resources
+F:\github\Pharmacy\Больничная аптека\PRG\Apteka\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

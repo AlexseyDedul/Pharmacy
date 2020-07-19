@@ -9,22 +9,26 @@ using System.ComponentModel;
 namespace WindowsFormsApplication1
 {
     [Serializable]
-    public class Заявки : INotifyPropertyChanged
+    public class Заявки : INotifyPropertyChanged, IMedicines
     {
-        public DateTime localDate { set; get; }
-        public string name { set; get; }
-        public int number { set; get; }
-        public List<Медикаменты_в_заявке> med_app = new List<Медикаменты_в_заявке>();
+        public DateTime LocalDate { set; get; }
+        public string Name { set; get; }
+        public int Number { set; get; }
+        public List<Медикаменты_в_заявке> med_app;
 
         public Заявки()
         {
+            LocalDate = new DateTime();
+            Name = null;
+            Number = 0;
+            med_app = new List<Медикаменты_в_заявке>();
         }
 
         public Заявки(DateTime date, string name, int number)
         {
-            this.localDate = date;
-            this.name = name;
-            this.number = number;
+            this.LocalDate = date;
+            this.Name = name;
+            this.Number = number;
         }
 
         public void add_medic_in_app(string new_name, int new_med_numb)

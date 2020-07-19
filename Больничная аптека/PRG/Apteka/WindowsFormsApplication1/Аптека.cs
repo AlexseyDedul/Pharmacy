@@ -58,7 +58,7 @@ namespace WindowsFormsApplication1
         {
             ap.Sort(delegate(Заявки m_1, Заявки m_2)
             {
-                return m_1.localDate.CompareTo(m_2.localDate);
+                return m_1.LocalDate.CompareTo(m_2.LocalDate);
             });
             return ap;
         }
@@ -67,7 +67,7 @@ namespace WindowsFormsApplication1
         {
             ap.Sort(delegate(Заявки m_1, Заявки m_2)
             {
-                return m_1.name.CompareTo(m_2.name);
+                return m_1.Name.CompareTo(m_2.Name);
             });
             return ap;
         }

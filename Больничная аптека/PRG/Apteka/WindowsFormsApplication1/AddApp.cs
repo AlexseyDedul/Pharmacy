@@ -48,7 +48,7 @@ namespace WindowsFormsApplication1
         {
             if (!(edit))
             {
-                app.number = app.med_app.Count();
+                app.Number = app.med_app.Count();
                 ph.add_app(app);
                 j = 0;
                 textBox1.Text = "";
@@ -80,9 +80,9 @@ namespace WindowsFormsApplication1
             bool flag = true;
             for (int i = 0; i < app.med_app.Count; i++)
             {
-                if (app.med_app[i].medicines == textBox3.Text)
+                if (app.med_app[i].Medicines == textBox3.Text)
                 {
-                    app.med_app[i].numbers += Convert.ToInt32(textBox4.Text);
+                    app.med_app[i].Quantity += Convert.ToInt32(textBox4.Text);
                     flag = false;
                     break;
                 }
@@ -95,7 +95,7 @@ namespace WindowsFormsApplication1
             if (flag)
             {
                 app.add_medic_in_app(textBox3.Text, Convert.ToInt32(textBox4.Text));
-                app.number = app.med_app.Count();
+                app.Number = app.med_app.Count();
                 updateMedApp.Add(new Медикаменты_в_заявке(textBox3.Text, Convert.ToInt32(textBox4.Text)));
             }
         }
@@ -156,12 +156,12 @@ namespace WindowsFormsApplication1
                 {
                     if (!(flag2))
                     {
-                        ph.bdApp[index].name = textBox1.Text;
+                        ph.bdApp[index].Name = textBox1.Text;
                         label2.Text = "Медикамент №" + ph.bdApp[index].med_app.Count;
                     }
                     else
                     {
-                        ph.app[index].name = textBox1.Text;
+                        ph.app[index].Name = textBox1.Text;
                         label2.Text = "Медикамент №" + ph.app[index].med_app.Count;
                     }
 
@@ -179,13 +179,13 @@ namespace WindowsFormsApplication1
             {
                 if (!(flag2))
                 {
-                    label1.Text = "Дата: " + ph.bdApp[index].localDate;
-                    textBox1.Text = ph.bdApp[index].name;
+                    label1.Text = "Дата: " + ph.bdApp[index].LocalDate;
+                    textBox1.Text = ph.bdApp[index].Name;
                 }
                 else
                 {
-                    label1.Text = "Дата: " + ph.app[index].localDate;
-                    textBox1.Text = ph.app[index].name;
+                    label1.Text = "Дата: " + ph.app[index].LocalDate;
+                    textBox1.Text = ph.app[index].Name;
                 }
             }
             else
@@ -229,10 +229,10 @@ namespace WindowsFormsApplication1
                     {
                         for (int j = 0; j < updateMedApp.Count(); j++)
                         {
-                            if (ph.bdApp[index].med_app[i].medicines == updateMedApp[j].medicines)
+                            if (ph.bdApp[index].med_app[i].Medicines == updateMedApp[j].Medicines)
                             {
                                 ph.bdApp[index].med_app.RemoveAt(i);
-                                ph.bdApp[index].number -= 1;
+                                ph.bdApp[index].Number -= 1;
                             }
                         }
                     }
@@ -284,10 +284,10 @@ namespace WindowsFormsApplication1
                     {
                         for (int j = 0; j < updateMedApp.Count(); j++)
                         {
-                            if (ph.bdApp[index].med_app[i].medicines == updateMedApp[j].medicines)
+                            if (ph.bdApp[index].med_app[i].Medicines == updateMedApp[j].Medicines)
                             {
                                 ph.bdApp[index].med_app.RemoveAt(i);
-                                ph.bdApp[index].number -= 1;
+                                ph.bdApp[index].Number -= 1;
                             }
                         }
                     }

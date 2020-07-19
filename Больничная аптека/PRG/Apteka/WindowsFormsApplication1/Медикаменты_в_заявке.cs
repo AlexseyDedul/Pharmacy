@@ -8,19 +8,21 @@ using System.ComponentModel;
 namespace WindowsFormsApplication1
 {
     [Serializable]
-    public class Медикаменты_в_заявке : INotifyPropertyChanged
+    public class Медикаменты_в_заявке : INotifyPropertyChanged, IMedecinesProduct
     {
-        public string medicines { set; get; }
-        public int numbers { set; get; }
+        public string Medicines { set; get; }
+        public int Quantity { set; get; }
 
         public Медикаменты_в_заявке()
         {
+            this.Medicines = null;
+            this.Quantity = 0;
         }
 
         public Медикаменты_в_заявке(string medicines, int numbers)
         {
-            this.medicines = medicines;
-            this.numbers = numbers;
+            this.Medicines = medicines;
+            this.Quantity = numbers;
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
